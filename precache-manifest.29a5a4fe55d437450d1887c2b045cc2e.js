@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5e8b9e89fab16e950eeda916b11caac",
+    "revision": "44288efcb87066898aa040d236ee036e",
     "url": "/vk-hotfix-web/index.html"
   },
   {
-    "revision": "14d7328f0157f049aeda",
+    "revision": "56952c26afea3cd56814",
     "url": "/vk-hotfix-web/static/css/main.6576fc27.chunk.css"
   },
   {
-    "revision": "987b47445bf29da83d33",
-    "url": "/vk-hotfix-web/static/js/2.85370991.chunk.js"
+    "revision": "656248b1f824996d314a",
+    "url": "/vk-hotfix-web/static/js/2.cc786089.chunk.js"
   },
   {
     "revision": "41b66b6fd6eecba581340794bb1831be",
-    "url": "/vk-hotfix-web/static/js/2.85370991.chunk.js.LICENSE.txt"
+    "url": "/vk-hotfix-web/static/js/2.cc786089.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14d7328f0157f049aeda",
-    "url": "/vk-hotfix-web/static/js/main.09191f62.chunk.js"
+    "revision": "56952c26afea3cd56814",
+    "url": "/vk-hotfix-web/static/js/main.3a2352e8.chunk.js"
   },
   {
     "revision": "abc5b864b44095666693",
